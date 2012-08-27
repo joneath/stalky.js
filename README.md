@@ -1,6 +1,8 @@
 # Stalky
 Stalky is a jQuery plugin to mimic iOS's sticky headers.
 
+![iOS Address Book](http://dl.dropbox.com/u/17011/stickyHeader.png)
+
 ## Usage
 		$(".myElements").stalky({
 			container: $(window),
